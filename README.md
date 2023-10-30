@@ -1,6 +1,6 @@
 <span>
-<img src="https://github-readme-stats-qzt4-javierganan99s-projects.vercel.app/api?username=javierganan99&count_private=true" height="165">
-<img src="https://github-readme-stats-qzt4-javierganan99s-projects.vercel.app/api/top-langs/?username=javierganan99&count_private=true" height="165">
+<img src="https://github-readme-stats-qzt4-pgd9ucf8s-javierganan99s-projects.vercel.app/api?username=javierganan99&count_private=true" height="165">
+<img src="https://github-readme-stats-qzt4-pgd9ucf8s-javierganan99s-projects.vercel.app/api/top-langs/?username=javierganan99&count_private=true" height="165">
 </span>
 
 <a href="https://javierganan.com"><img src="https://img.shields.io/badge/ABOUT-444444?style=for-the-badge&logo=About.me&logoColor=white"></a>
